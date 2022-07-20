@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_epic_teach=self.webpackChunkreact_epic_teach||[]).push([[964],{964:function(e,c,t){t.r(c);t(2791),t(9673);var n=t(184);c.default=function(){return(0,n.jsx)(n.Fragment,{children:(0,n.jsx)("h1",{children:"About"})})}}}]);
+//# sourceMappingURL=964.118c72b1.chunk.js.map
